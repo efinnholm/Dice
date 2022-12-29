@@ -1,2 +1,2 @@
 # Dice
-https://dice-game-erik.netlify.app/
+https://erik-dice-game.netlify.app/
